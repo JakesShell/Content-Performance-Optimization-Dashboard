@@ -12,12 +12,12 @@ The dashboard accepts pasted text and an optional focus keyword, then returns a 
 
 This project maps to realistic workflows used by:
 
-- content marketers
+- Content Marketers
 - SEO consultants
-- freelance copywriters
-- digital agencies
-- in-house growth teams
-- website owners reviewing blog posts or landing pages
+- Freelance Copywriters
+- Digital Agencies
+- In-House Growth Teams
+- Website Owners Reviewing Blog Posts or Landing Pages
 
 A business may need to answer questions such as:
 
@@ -27,7 +27,7 @@ A business may need to answer questions such as:
 - Does this content need more depth?
 - What improvements should be made before publishing?
 
-This type of dashboard could be used as an internal review tool before uploading blog content, landing pages, service pages, or campaign copy.
+This type of dashboard could be used as an internal review tool before uploading Blog Content, Landing Pages, Service Pages, or Campaign Copy.
 
 ## Key Features
 
